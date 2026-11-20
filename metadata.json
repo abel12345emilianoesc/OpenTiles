@@ -1,0 +1,6 @@
+{
+  "name": "Custom Tile",
+  "description": "Juego de ritmo open source sin anuncios con importación de canciones MP3/M4A/WAV/OGG, análisis rítmico en 5 dificultades y tienda de tonalidades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

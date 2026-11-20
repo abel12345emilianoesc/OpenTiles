@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Custom Tile</string>
+    <string name="app_subtitle">Ritmo Musical</string>
+    <string name="nav_library">Biblioteca</string>
+    <string name="nav_shop">Tienda</string>
+    <string name="nav_settings">Configuración</string>
+    <string name="btn_import_song">Importar Canción</string>
+    <string name="btn_play">Jugar Ahora</string>
+    <string name="btn_retry">Reintentar</string>
+    <string name="btn_back_library">Volver a Biblioteca</string>
+    <string name="btn_pause">Pausar</string>
+    <string name="btn_resume">Reanudar</string>
+    <string name="difficulty_1_name">Suave</string>
+    <string name="difficulty_2_name">Ritmo</string>
+    <string name="difficulty_3_name">Fluido</string>
+    <string name="difficulty_4_name">Intenso</string>
+    <string name="difficulty_5_name">Resonancia Maestra</string>
+    <string name="judgment_perfect">¡PERFECTO!</string>
+    <string name="judgment_great">¡GENIAL!</string>
+    <string name="judgment_good">BIEN</string>
+    <string name="judgment_miss">FALLO</string>
+    <string name="fever_active">MODO FIEBRE ACTIVO</string>
+    <string name="shop_title">Tienda de Resonancia</string>
+    <string name="shop_tab_themes">Tonalidades de Teclas</string>
+    <string name="shop_tab_sfx">Efectos de Sonido</string>
+    <string name="shop_tab_trails">Estelas de Impacto</string>
+    <string name="settings_title">Configuración</string>
+    <string name="import_dialog_title">Analizando Ritmo de la Canción</string>
+</resources>
